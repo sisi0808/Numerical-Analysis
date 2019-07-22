@@ -1,0 +1,55 @@
+<!DOCTYPE HTML>
+<html lang="ja-JP">
+  <head>
+    <meta charset="UTF-8">
+    <title>二分法・ニュートン法シミュレータ</title>
+    <link rel="stylesheet" href="simulator.css">
+    <script src="./js/nylon.js"></script>
+    <script src="./js/vcanvas.js"></script>
+    <script src="./js/vbtimer.js"></script>
+    <script src="./js/simulator.js"></script>
+    <script src="./js/function_definition.js"> </script>
+    <script src="./js/bisection.js"> </script>
+    <script src="./js/newton.js"></script>
+    <script src="./js/buttonclick.js"></script>
+  </head>
+  <body>
+    <div id="contents">
+      <div id="panel">
+        <div>
+          <button type="button" id="start" class="normal">start</button>
+          <button type="button" id="stop" class="normal">stop</button>
+        </div>
+        <div>
+          <div id="output1">aの値:15</div>
+          <input type="text" id="textbox1" class="size" maxlength="20">
+          <button type="button" id="a01" class="size" onclick="ButtonClick1();">設定</button>
+          <div id="output2">bの値:5</div>
+          <input type="text" id="textbox2" class="size" maxlength="20">
+          <button type="button" id="a02" class="size" onclick="ButtonClick2();">設定</button>
+          <div id="output3">cの値:15</div>
+          <input type="text" id="textbox3" class="size" maxlength="20">
+          <button type="button" id="a03" class="size" onclick="ButtonClick3();">設定</button>
+        </div>
+          <div>
+          <p>方程式</p>
+          <button type="button" id="b02" class="size2">f(x)=x^3/18-5x-10</button>
+          <button type="button" id="b03" class="size2">f(x)=x^2/20-5</button>
+          <button type="button" id="b04" class="size2">f(x)=(x/6)^3+x/3+1 </button>
+        </div>
+      </div>
+      <div id="main">
+        <div id="area1" class="area">
+          <p>　二分法（bisection method)</p>
+          <canvas class="myCanvas" id="graph1" width="400" height="400"></canvas>
+          <canvas class="myCanvas" id="graph1b" width="400" height="400"></canvas>
+        </div>
+        <div id="area2" class="area">
+          <p> ニュートン法（Newton's method）</p>
+          <canvas class="myCanvas" id="graph2" width="400" height="400"></canvas>
+          <canvas class="myCanvas" id="graph2b" width="400" height="400"></canvas>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
