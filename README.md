@@ -1,19 +1,25 @@
-#@”’lŒvZ@ÅI‰Û‘è—pƒvƒƒOƒ‰ƒ€@#
+# æ•°å€¤è¨ˆç®—ã€€æœ€çµ‚èª²é¡Œç”¨ãƒ—ãƒ­ã‚°ãƒ©ãƒ 
+URL:https://sisi0808.github.io/Numerical-Analysis/simulator.html
 
-“ñ•ª–@‹y‚Ñƒjƒ…[ƒgƒ“–@‚ğƒOƒ‰ƒtƒBƒJƒ‹‚É—‰ğ‚·‚é‚½‚ß‚ÌƒvƒƒOƒ‰ƒ€  
-ƒfƒoƒbƒN‚ªr‚¢ˆ×”ñí‚ÉƒoƒO‚ª‘½‚¢‚Æv‚í‚ê‚é  
+![image](https://user-images.githubusercontent.com/52097096/145131590-82eb43a7-0a67-41e6-951f-ba6437e19a01.png)
+![image](https://user-images.githubusercontent.com/52097096/145131684-cc8dcb1c-fc13-4508-bbf0-e39bdeb8ce70.png)
+![image](https://user-images.githubusercontent.com/52097096/145131720-99682cfc-59e5-418c-9a5f-f22737d0b151.png)
 
-\¬‚ÍˆÈ‰º‚Ì’Ê‚è  
-simirator.html EEE webƒy[ƒW  
-simurator.css EEE ª‚ÌCSS  
----ˆÈ‰ºjs“à---  
-buttonclick.js EEE HTML‚É‚¨‚¯‚éƒ{ƒ^ƒ“‰Ÿ‰º‚Ìˆ—  
-function_definitation.js EEE ŒvZ‘ÎÛ‚Æ‚È‚é•û’ö®‚ğ‚Ü‚Æ‚ß‚Ä‚ ‚é  
-bisection.js EEE“ñ•ª–@‚ğŒvZ  
-newton.js EEE ƒjƒ…[ƒgƒ“–@‚ğŒvZ  
-nylon.js EEE ƒAƒjƒ[ƒVƒ‡ƒ“‚ÉŠÖ‚·‚éˆ—‚ª‚Ü‚Æ‚ß‚Ä‚ ‚éƒNƒ‰ƒX  
-simulator.js EEE ƒƒCƒ“ƒvƒƒOƒ‰ƒ€B•`‰æ‚ğs‚¤  
-vbtimer.js EEE ƒ^ƒCƒ}[‚ÉŠÖ‚·‚éˆ—‚ª‚Ü‚Æ‚ß‚Ä‚ ‚éƒNƒ‰ƒX  
-vcanvas.js EEE ƒOƒ‰ƒt—Ìˆæ‚Ö‚Ì•`‰æˆ—‚ª‚Ü‚Æ‚ß‚Ä‚ ‚éƒNƒ‰ƒX  
+
+äºŒåˆ†æ³•åŠã³ãƒ‹ãƒ¥ãƒ¼ãƒˆãƒ³æ³•ã‚’ã‚°ãƒ©ãƒ•ã‚£ã‚«ãƒ«ã«ç†è§£ã™ã‚‹ãŸã‚ã®ãƒ—ãƒ­ã‚°ãƒ©ãƒ   
+ãƒ‡ãƒãƒƒã‚¯ãŒè’ã„ç‚ºéå¸¸ã«ãƒã‚°ãŒå¤šã„ã¨æ€ã‚ã‚Œã‚‹  
+
+æ§‹æˆã¯ä»¥ä¸‹ã®é€šã‚Š  
+simirator.html ãƒ»ãƒ»ãƒ» webãƒšãƒ¼ã‚¸  
+simurator.css ãƒ»ãƒ»ãƒ» â†‘ã®CSS  
+---ä»¥ä¸‹jså†…---  
+buttonclick.js ãƒ»ãƒ»ãƒ» HTMLã«ãŠã‘ã‚‹ãƒœã‚¿ãƒ³æŠ¼ä¸‹æ™‚ã®å‡¦ç†  
+function_definitation.js ãƒ»ãƒ»ãƒ» è¨ˆç®—å¯¾è±¡ã¨ãªã‚‹æ–¹ç¨‹å¼ã‚’ã¾ã¨ã‚ã¦ã‚ã‚‹  
+bisection.js ãƒ»ãƒ»ãƒ»äºŒåˆ†æ³•ã‚’è¨ˆç®—  
+newton.js ãƒ»ãƒ»ãƒ» ãƒ‹ãƒ¥ãƒ¼ãƒˆãƒ³æ³•ã‚’è¨ˆç®—  
+nylon.js ãƒ»ãƒ»ãƒ» ã‚¢ãƒ‹ãƒ¡ãƒ¼ã‚·ãƒ§ãƒ³ã«é–¢ã™ã‚‹å‡¦ç†ãŒã¾ã¨ã‚ã¦ã‚ã‚‹ã‚¯ãƒ©ã‚¹  
+simulator.js ãƒ»ãƒ»ãƒ» ãƒ¡ã‚¤ãƒ³ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã€‚æç”»ã‚’è¡Œã†  
+vbtimer.js ãƒ»ãƒ»ãƒ» ã‚¿ã‚¤ãƒãƒ¼ã«é–¢ã™ã‚‹å‡¦ç†ãŒã¾ã¨ã‚ã¦ã‚ã‚‹ã‚¯ãƒ©ã‚¹  
+vcanvas.js ãƒ»ãƒ»ãƒ» ã‚°ãƒ©ãƒ•é ˜åŸŸã¸ã®æç”»å‡¦ç†ãŒã¾ã¨ã‚ã¦ã‚ã‚‹ã‚¯ãƒ©ã‚¹  
 
 
